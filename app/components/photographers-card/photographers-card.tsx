@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { Star, Camera, MapPin } from "lucide-react";
+import { Star, MapPin } from "lucide-react";
 import { Photographer } from "@/types";
 interface PhotographerCardProps {
   photographer: Photographer;
@@ -23,7 +23,7 @@ export const PhotographerCard: React.FC<PhotographerCardProps> = ({
             fill="currentColor"
             size={16}
           />
-          <span className="font-semibold">
+          <span className="font-semibold text-slate-500">
             {photographer.rating.toFixed(1)}
           </span>
         </div>

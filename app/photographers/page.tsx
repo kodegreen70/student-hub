@@ -16,7 +16,7 @@ const PhotographersPage = () => {
       image:
         "https://images.unsplash.com/photo-1603574670812-d24560880210?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHBob3RvZ3JhcGhlcnxlbnwwfHwwfHx8MA%3D%3D",
       price: 50000,
-      rating: 4.8,
+      rating: 4.9,
       location: "Lagos",
       experience: 5,
       specialties: ["Graduation", "Wedding", "Portraits"],
@@ -49,7 +49,7 @@ const PhotographersPage = () => {
       image:
         "https://plus.unsplash.com/premium_photo-1674389991679-e1a7a0b3e0a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGhvdG9ncmFwaGVyfGVufDB8fDB8fHww",
       price: 50000,
-      rating: 4.8,
+      rating: 4.9,
       location: "Kaduna",
       experience: 5,
       specialties: ["Graduation", "Wedding", "Portraits"],
