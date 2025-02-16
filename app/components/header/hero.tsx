@@ -77,7 +77,7 @@ export const Hero = () => {
                   <div>
                     <p className="font-semibold text-white">Michael Johnson</p>
                     <p className="text-sm text-gray-300">
-                      Top Rated Photographe
+                      Top Rated Photographer
                     </p>
                   </div>
                 </div>
